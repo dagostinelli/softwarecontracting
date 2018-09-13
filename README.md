@@ -3,7 +3,7 @@ by Darryl T. Agostinelli
 
 This is the official repository for the work in progress book titled "Software Contracting".
 
-What is a Journeyman?  You are a journeyman when you explain your craft.  That's what this book presently is to me.  While I explain my craft, I hope that it will be useful to you.
+What is a Journeyman?  You are a journeyman when you explain your craft.  That's what this book presently is to me.  While I explain my craft, I hope that it will be useful to you.  If you are a current or former client, I hope that some of this material will be useful to you in working with me or with others like me.
 
 This book is a work in progress.
 
